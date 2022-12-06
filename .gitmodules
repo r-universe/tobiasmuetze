@@ -8,8 +8,3 @@
 	url = https://github.com/tobiasmuetze/gscounts
 	shallow = true
 	registered = true
-[submodule "ThreeArmedTrials"]
-	path = ThreeArmedTrials
-	url = https://github.com/tobiasmuetze/threearmedtrials
-	shallow = true
-	registered = true

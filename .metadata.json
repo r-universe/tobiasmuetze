@@ -2,9 +2,5 @@
   {
     "package": "gscounts",
     "oncran": true
-  },
-  {
-    "package": "ThreeArmedTrials",
-    "oncran": true
   }
 ]
