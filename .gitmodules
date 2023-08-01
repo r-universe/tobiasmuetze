@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "gscounts"]
-	path = gscounts
-	url = https://github.com/tobiasmuetze/gscounts
 [submodule "ThreeArmedTrials"]
 	path = ThreeArmedTrials
 	url = https://github.com/tobiasmuetze/threearmedtrials
+[submodule "gscounts"]
+	path = gscounts
+	url = https://github.com/tobiasmuetze/gscounts
